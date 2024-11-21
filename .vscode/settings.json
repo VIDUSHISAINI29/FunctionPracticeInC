@@ -1,6 +1,9 @@
 {
     "files.associations": {
         "FUNCTION.C": "cpp",
-        "ROMANISE.C": "cpp"
+        "ROMANISE.C": "cpp",
+        "LEAPYEAR.C": "cpp",
+        "PRIMEFAC.C": "cpp",
+        "BUBBLESO.C": "cpp"
     }
 }
