@@ -4,6 +4,7 @@
         "ROMANISE.C": "cpp",
         "LEAPYEAR.C": "cpp",
         "PRIMEFAC.C": "cpp",
-        "BUBBLESO.C": "cpp"
+        "BUBBLESO.C": "cpp",
+        "2DARRAY.C": "cpp"
     }
 }
